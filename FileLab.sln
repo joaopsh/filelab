@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileLab.Ui.Api", "FileLab.Ui.Api\FileLab.Ui.Api.csproj", "{B7B68C6E-D83A-4F0F-821A-84E825C55433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7B68C6E-D83A-4F0F-821A-84E825C55433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B68C6E-D83A-4F0F-821A-84E825C55433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B68C6E-D83A-4F0F-821A-84E825C55433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B68C6E-D83A-4F0F-821A-84E825C55433}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03DF6CE4-CD93-496D-8E0C-C9ACC96F20B5}
+	EndGlobalSection
+EndGlobal
